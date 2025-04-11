@@ -21,6 +21,13 @@
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
+<details>
+  <summary>📄 **Click to View & Download My Resume** 👨‍💼</summary>
+
+  ![Resume Preview](saikumar-manda-resume-04-25.png)
+  
+  [🔽 **Download My Resume** 🔽](https://drive.google.com/file/d/1kOsOScd6q_WJVkZ_GvMyx7eTN-pxGv1q/view?usp=sharing)
+</details>
 
 ---
 

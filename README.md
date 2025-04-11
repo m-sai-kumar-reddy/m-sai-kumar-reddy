@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="50%" src="logo.gif" />
+  <img width="50%" src="developer.gif" />
   
   ![Sai Kumar Reddy](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Sai%20Kumar%20Manda&fontColor=00000&fontAlign=50&animation=twinkling&section=header&reversal=false)  
 </div>

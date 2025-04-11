@@ -44,7 +44,7 @@
 
 | Languages | Web Dev | Databases | Tools |
 |----------|---------|-----------|-------|
-| ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript) | ![ReactJS](https://img.shields.io/badge/React-092E20?style=flat-square&logo=react&logoColor=white) | ![Chart.js](https://img.shields.io/badge/ChartJs-316192?style=flat-square&logo=chartjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript) | ![ReactJS](https://img.shields.io/badge/React-092E20?style=flat-square&logo=react&logoColor=white) | ![Chart.js](https://img.shields.io/badge/MySQL-316192?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-563D7C?style=flat-square&logo=tailwindcss&logoColor=white) | ![MSSQL](https://img.shields.io/badge/MSSQL-003B57?style=flat-square&logo=mssql&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ## 📈 GitHub Stats

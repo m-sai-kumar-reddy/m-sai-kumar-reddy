@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A62A8&lines=Hello+World!+👋;I'm+Sai+Kumar+Reddy;Full+Stack+Web+Developer+%7C+ReactJS,NodeJS;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A62A8&lines=Hello+World!+👋;I'm+Sai+Kumar+Reddy;Full+Stack+Web+Developer;ReactJS+%7C+NodeJS;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <h1 align="center">🌐 Full Stack Web Developer | JavaScript, NodeJS & ReactJS</h1>

@@ -26,7 +26,7 @@
 
   ![Resume Preview](saikumar-manda-resume-04-25.png)
   
-  [🔽 **Download My Resume** 🔽](https://drive.google.com/file/d/1kOsOScd6q_WJVkZ_GvMyx7eTN-pxGv1q/view?usp=sharing)
+  [🔽 **Download My Resume** 🔽](https://drive.google.com/file/d/18E50f7m9RtlmLTNSEUbPdME0TWG8y5zW/view?usp=sharing)
 </details>
 
 ---

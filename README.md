@@ -24,7 +24,7 @@
 <details>
   <summary>📄 **Click to View & Download My Resume** 👨‍💼</summary>
 
-  ![Resume Preview](saikumar-manda-resume-04-25.png)
+  ![Resume Preview](saikumar-manda-04-25.png)
   
   [🔽 **Download My Resume** 🔽](https://drive.google.com/file/d/18E50f7m9RtlmLTNSEUbPdME0TWG8y5zW/view?usp=sharing)
 </details>
